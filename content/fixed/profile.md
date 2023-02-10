@@ -1,19 +1,21 @@
 ---
 title: "Profile"
 date: 2023-02-11T01:02:59+09:00
-draft: true
+draft: false
 ---
 
 関 健太郎 (Kentaro Seki)
 seki-kentaro922[at]g.ecc.u-tokyo.ac.jp
 
 音声合成・機械学習・音響信号処理を専門にしています。
+
 よろしくお願いします。
 
 ## 所属
 
-学年　：修士一年生
-研究室：東京大学大学院 [情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) システム情報学専攻 [猿渡・小山研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/)
+東京大学大学院 [情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) システム情報学専攻 
+
+[猿渡・小山研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士一年生
 
 ## 学歴
 
