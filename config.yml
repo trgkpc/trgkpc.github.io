@@ -127,7 +127,7 @@ menu:
       url: fixed/profile
       weight: 15
     - identifier: research
-      name: research
+      name: 研究
       url: fixed/research
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
