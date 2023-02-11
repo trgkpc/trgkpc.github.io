@@ -12,15 +12,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 11 Feb 2023 01:59:06 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello_world</title>
+      <title>Hello World!</title>
       <link>http://trgkpc.github.io/posts/2023/02/hello_world/</link>
       <pubDate>Sat, 11 Feb 2023 01:59:06 +0900</pubDate>
       
       <guid>http://trgkpc.github.io/posts/2023/02/hello_world/</guid>
       <description>自己紹介 はじめまして。関健太郎です。
 ホームページを作成しました。よろしくお願いします。
-雑多なこと 手始めにMathJaxを導入して数式を書けるようにしました。 例えばフーリエ変換\( \mathcal{F}[f(t)] \)の定義式を以下のように書けます。
-\[ \mathcal{F}[f(t)] = \int_{-\infty}^{\infty} f(t)\exp(-j\omega t)dt \]</description>
+雑多なこと 数式 手始めにMathJaxを導入して数式を書けるようにしました。 例えばフーリエ変換\( \mathcal{F}[f(t)] \)の定義式を以下のように書けます。
+\[ \mathcal{F}[f(t)] = \int_{-\infty}^{\infty} f(t)\exp(-j\omega t)dt \]
+オーディオ 音声を再生することもできます。
+ JVSコーパス  </description>
     </item>
     
     <item>
