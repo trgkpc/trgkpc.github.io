@@ -63,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "sekken"
     subtitle: "音声合成・機械学習の研究をしています"
-    imageUrl: "profil.jpg"
+    imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: trgkpc
