@@ -1,7 +1,7 @@
 ---
 title: "Hello_world"
 date: 2023-02-11T01:59:06+09:00
-draft: true
+draft: false
 ---
 
 ### 自己紹介
