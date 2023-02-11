@@ -10,7 +10,22 @@
       <link>http://trgkpc.github.io/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Feb 2023 01:59:06 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 15:36:01 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>趣味</title>
+      <link>http://trgkpc.github.io/fixed/curiosity/</link>
+      <pubDate>Sat, 11 Feb 2023 15:36:01 +0900</pubDate>
+      
+      <guid>http://trgkpc.github.io/fixed/curiosity/</guid>
+      <description>ものづくり・プログラミング系の趣味を紹介します。
+学生ロボコン2020 大会概要 世界大会の開催地フィジーの国民的競技であるラグビーを題材とした競技課題で、二台のロボットがパス、レシーブ、トライの連携動作とゴールキックを行います。 ルールの制約上、相手チームより早く４回のトライと１回のキックをすることが勝利の十分条件であっため、このタイムを競う大会となりました。
+動作映像 世界大会でのロボットの動作映像はYouTubeで公開されています。 手前のロボット(Pass Robot, PR)が奥のロボット(Try Robot, TR)にパスを行い、TRがトライを行います。 ４回のトライの後、PRがゴールキックを１回行います。
+  技術詳細 タイムを切り詰める上で重要であったロボットの移動機構についての技術紹介動画が公開されています。 動画で取り上げられている移動機構の制御や経路最適化は私の担当した箇所です。
+  その他 国内大会に向けて制作した動作映像はIEEE Spectrumでも取り上げられています。
+数理最適化 ロボコンで最適制御をした関係で、最適制御理論や数理最適化の実装をしていた時期があります。 公開できる実装は特にないですが、最適制御理論入門のブログを書いたことがあります。
+電子工作 たまにやります。</description>
+    </item>
+    
     <item>
       <title>Hello World!</title>
       <link>http://trgkpc.github.io/posts/2023/02/hello_world/</link>
@@ -26,7 +41,7 @@
     </item>
     
     <item>
-      <title>Research</title>
+      <title>研究</title>
       <link>http://trgkpc.github.io/fixed/research/</link>
       <pubDate>Sat, 11 Feb 2023 01:46:06 +0900</pubDate>
       
@@ -35,7 +50,7 @@
     </item>
     
     <item>
-      <title>Profile</title>
+      <title>プロフィール</title>
       <link>http://trgkpc.github.io/fixed/profile/</link>
       <pubDate>Sat, 11 Feb 2023 01:02:59 +0900</pubDate>
       
