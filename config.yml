@@ -74,6 +74,8 @@ params:
         url: fixed/profile
       - name: 研究
         url: fixed/research
+      - name: 趣味
+        url: fixed/curiosity
   
   # home-info mode
   homeInfoParams:
@@ -129,6 +131,10 @@ menu:
     - identifier: research
       name: 研究
       url: fixed/research
+      weight: 20
+    - identifier: curiosity
+      name: 趣味
+      url: fixed/curiosity
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

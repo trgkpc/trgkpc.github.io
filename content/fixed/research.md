@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "研究"
 date: 2023-02-11T01:46:06+09:00
 draft: false
 ---
