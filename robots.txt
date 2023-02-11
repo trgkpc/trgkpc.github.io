@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://trgkpc.github.io/sitemap.xml
