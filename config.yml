@@ -1,6 +1,6 @@
 baseURL: "http://trgkpc.github.io/"
 canonifyurls: false
-publishDir: "public"
+publishDir: "docs"
 title: "Sekken"
 paginate: 10
 theme: "PaperMod"
