@@ -22,7 +22,7 @@ params:
   description: "Kentaro Seki's Site"
   keywords: [trgkpc, sekken, 石鹸, 関健太郎]
   author: ["trgkpc"]
-  images: ["profile.jpg"]
+  images: ["img/profile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -63,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "sekken"
     subtitle: "音声合成・機械学習の研究をしています"
-    imageUrl: "profile.jpg"
+    imageUrl: "img/profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: trgkpc
@@ -75,7 +75,7 @@ params:
       - name: 研究
         url: fixed/research
       - name: 趣味
-        url: fixed/curiosity
+        url: fixed/hobby
   
   # home-info mode
   homeInfoParams:
@@ -132,9 +132,9 @@ menu:
       name: 研究
       url: fixed/research
       weight: 20
-    - identifier: curiosity
+    - identifier: hobby
       name: 趣味
-      url: fixed/curiosity
+      url: fixed/hobby
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
