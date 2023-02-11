@@ -4,10 +4,10 @@ date: 2023-02-11T01:02:59+09:00
 draft: false
 ---
 
-関 健太郎 (Kentaro Seki)
+関 健太郎 (Kentaro Seki)\
 seki-kentaro922[at]g.ecc.u-tokyo.ac.jp
 
-音声合成・機械学習・音響信号処理を専門にしています。
+音声合成・機械学習及び音響信号処理を専門にしています。
 
 よろしくお願いします。
 
