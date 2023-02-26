@@ -48,11 +48,13 @@ seki-kentaro922[at]g.ecc.u-tokyo.ac.jp
 | 2016.04 | 第一級アマチュア無線技士 取得                                  |
 | 2013.03 | 第三級アマチュア無線技士 取得                                  |
 
+## 予算・プロジェクト等
+| 2022.06 | [未踏IT人材発掘・育成事業採択](https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_fj-2.html)       |
+
 ## 受賞等
 |         |                                                                                                |
 | :------ | :--------------------------------------------------------------------------------------------- |
-| 2022.09 | [第18回全日本学生室内飛行ロボットコンテスト ベストプレゼンテーション賞 ブルーイノベーション賞](http://indoor-flight.com/tournament_info) |
-| 2022.06 | [未踏IT人材発掘・育成事業採択](https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_fj-2.html)       |
+| 2022.09 | [第18回全日本学生室内飛行ロボットコンテスト ベストプレゼンテーション賞 ブルーイノベーション賞](http://indoor-flight.com/archive/11) |
 | 2021.12 | [第17回全日本学生室内飛行ロボットコンテスト 飛行競技(マルチコプタ-部門) ブルーイノベーション賞](http://indoor-flight.com/archive/10) |
 | 2021.03 | [東京大学総長賞 受賞](https://tuk.t.u-tokyo.ac.jp/robotech/2021-03-05RoboTech%E3%81%8C%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%B7%8F%E9%95%B7%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81/) |
 | 2020.12 | [ABU ロボコン（学生ロボコン世界大会） 2020 1位](https://official-robocon.com/history/abu/?history=%e7%ac%ac%e5%8d%81%e4%b9%9d%e5%9b%9e%e5%a4%a7%e4%bc%9a)|
