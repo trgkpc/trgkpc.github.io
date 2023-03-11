@@ -36,7 +36,7 @@ seki-kentaro922[at]g.ecc.u-tokyo.ac.jp
 |                   |                                                                                            |
 | :---------------- | :----------------------------------------------------------------------------------------- |
 | 2022.08 - 2022.09 | [ソニーグループ株式会社R&Dセンター](https://www.sony.com/ja/SonyInfo/research/) インターン |
-| 2021.11 - 2022.05 | [株式会社 Preferred Robotcs](https://www.pfrobotics.jp/) Part-time Engineer                |
+| 2021.11 - 2022.05 | [株式会社 Preferred Robotics](https://www.pfrobotics.jp/) Part-time Engineer                |
 | 2020.12 - 2021.10 | [株式会社 Preferred Networks](https://www.preferred.jp/ja/) Part-time Engineer             |
 
 ## 資格等
