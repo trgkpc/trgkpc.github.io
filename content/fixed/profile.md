@@ -15,7 +15,7 @@ seki-kentaro922[at]g.ecc.u-tokyo.ac.jp
 
 東京大学大学院 [情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) システム情報学専攻 
 
-[猿渡・小山研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士一年生
+[猿渡・高道研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士二年生
 
 ## 学歴
 
