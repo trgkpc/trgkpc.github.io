@@ -5,8 +5,8 @@ draft: false
 ---
 
 ## 国際学会
-
-1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari , "Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection" in Proc. ICASSP, 2023.[[arXiv preprint](https://arxiv.org/abs/2210.14850)]
+1. Joonyong Park, Shinnosuke Takamichi, Tomohiko Nakamura, **Kentaro Seki**, Detai Xin and Hiroshi Saruwatari, "How Generative Spoken Language Modeling Encodes Noisy Speech: Investigation from Phonetics to Syntactics" in Proc. Interspeech, 2023. [[arXiv preprint](https://arxiv.org/abs/2306.00697)]
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection" in Proc. ICASSP, 2023.[[arXiv preprint](https://arxiv.org/abs/2210.14850)]
 
 ## 国内学会
 1. 朴浚溶, 高道慎之介, 中村 友彦, **関健太郎**, 辛德泰, 猿渡洋, "Generative Spoken Language Model を用いた劣化雑音音声の分析と他言語への適用", 日本音響学会第149回(2023年春季)研究発表会.
