@@ -10,7 +10,16 @@
       <link>http://trgkpc.github.io/img/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Feb 2023 01:59:06 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 20:46:06 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE会員ならOverleafの有料版機能が使える話</title>
+      <link>http://trgkpc.github.io/posts/2023/09/ieee_overleaf/</link>
+      <pubDate>Tue, 12 Sep 2023 20:46:06 +0900</pubDate>
+      
+      <guid>http://trgkpc.github.io/posts/2023/09/ieee_overleaf/</guid>
+      <description>要約 手順  IEEE Collabratecのアカウントを作る Attached ServicesのページでOverleafの+connectボタンを押し，自分のアカウントを接続する  結果  Overleafアカウントで有料版機能が使えるようになる  考察  上のリンクをクリックするだけで出来るので，IEEE会員はすぐやるべき（1分で終わる）  Acknowledgement  出典に記したページそのままです  出典  IEEEのページ  </description>
+    </item>
+    
     <item>
       <title>Hello World!</title>
       <link>http://trgkpc.github.io/posts/2023/02/hello_world/</link>
