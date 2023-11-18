@@ -10,7 +10,16 @@
       <link>http://trgkpc.github.io/img/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 20:46:06 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 13:00:00 +0900</lastBuildDate><atom:link href="http://trgkpc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presented in VoiceMOS mini workshop</title>
+      <link>http://trgkpc.github.io/posts/2023/11/voicemos_workshop/</link>
+      <pubDate>Sat, 18 Nov 2023 13:00:00 +0900</pubDate>
+      
+      <guid>http://trgkpc.github.io/posts/2023/11/voicemos_workshop/</guid>
+      <description>Links  Slide: coming soon&amp;hellip; Paper: arXiv preprint If you have any questions or inquiries, please contact the email address written in the profile page.  </description>
+    </item>
+    
     <item>
       <title>IEEE会員ならOverleafの有料版機能が使える話</title>
       <link>http://trgkpc.github.io/posts/2023/09/ieee_overleaf/</link>
