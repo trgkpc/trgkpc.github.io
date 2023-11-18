@@ -7,4 +7,4 @@ draft: false
 ### Links
 - **Slide**: coming soon...
 - **Paper**: [arXiv preprint](https://arxiv.org/abs/2210.14850)
-- If you have any questions or inquiries, please contact the email address written in [the profile page](../../../en/fixed/profile).
+- If you have any questions or inquiries, please contact the email address written in [the profile page](../../../../en/fixed/profile).
