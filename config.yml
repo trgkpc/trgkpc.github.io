@@ -16,6 +16,52 @@ minify:
   disableXML: true
   minifyOutput: true
 
+
+defaultContentLanguage: ja
+languages:
+  ja:
+    languageName: "日本語"
+    weight: 1
+    menu:
+      main:
+        - identifier: posts
+          name: 投稿
+          url: posts
+          weight: 5
+        - identifier: profile
+          name: プロフィール
+          url: fixed/profile
+          weight: 10
+        - identifier: reseach
+          name: 研究
+          url: fixed/research
+          weight: 15
+        - identifier: hobby
+          name: 趣味
+          url: fixed/hobby
+          weight: 20
+  en:
+    languageName: English
+    weight: 2
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: posts
+          weight: 5
+        - identifier: profile
+          name: Profile
+          url: fixed/profile
+          weight: 10
+        - identifier: reseach
+          name: Research
+          url: fixed/research
+          weight: 15
+        - identifier: hobby
+          name: Hobby
+          url: fixed/hobby
+          weight: 20
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Sekken"
@@ -61,20 +107,20 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "sekken"
-    subtitle: "音声合成・機械学習の研究をしています"
+    title: "Kentaro Seki"
+    subtitle: "Researcher in speech synthesis and machine learning"
     imageUrl: "img/profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: trgkpc
     buttons:
-      - name: 投稿
+      - name: Posts
         url: posts
-      - name: プロフィール
+      - name: Profile
         url: fixed/profile
-      - name: 研究
+      - name: Research
         url: fixed/research
-      - name: 趣味
+      - name: Hobby
         url: fixed/hobby
   
   # home-info mode
@@ -118,24 +164,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: posts
-      name: 投稿
-      url: posts
-      weight: 10
-    - identifier: profile
-      name: プロフィール
-      url: fixed/profile
-      weight: 15
-    - identifier: research
-      name: 研究
-      url: fixed/research
-      weight: 20
-    - identifier: hobby
-      name: 趣味
-      url: fixed/hobby
-      weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
