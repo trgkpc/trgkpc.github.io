@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## 国際学会
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Diversity-based core-set selection for text-to-speech with linguistic and acoustic features" in Proc. ICASSP, 2024.[[arXiv preprint](https://arxiv.org/abs/2309.08127)]
 1. Joonyong Park, Shinnosuke Takamichi, Tomohiko Nakamura, **Kentaro Seki**, Detai Xin and Hiroshi Saruwatari, "How Generative Spoken Language Modeling Encodes Noisy Speech: Investigation from Phonetics to Syntactics" in Proc. Interspeech, 2023. [[arXiv preprint](https://arxiv.org/abs/2306.00697)]
 1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection" in Proc. ICASSP, 2023.[[arXiv preprint](https://arxiv.org/abs/2210.14850)]
 
