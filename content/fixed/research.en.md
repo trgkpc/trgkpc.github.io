@@ -25,5 +25,6 @@ draft: false
 ## Award
 |         |                                                                |
 | :------ | :------------------------------------------------------------- |
-| 2023.09 | 日本音響学会学生優秀発表賞受賞                                    |
+| 2024.03 | Google Travel Grants for Students in East Asia                 |
+| 2023.09 | 日本音響学会学生優秀発表賞受賞                                 |
 | 2023.03 | IEEE SPS Travel Grant for IEEE ICASSP 2023                     |
