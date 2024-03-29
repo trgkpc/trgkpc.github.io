@@ -18,11 +18,12 @@ The University of Tokyo
 
 ## Educational History
 
-|                       |                                                                                                                                              |
-| :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apr. 2022 -           | M.S., Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo, Japan |
-| Apr. 2020 - Mar. 2022 | B.E., Department of Mathematical Engineering and Information Physics, School of Engineering, The University of Tokyo, Japan                  |
-| Apr. 2018 - Mar. 2020 | Natural Science I, Collage of Arts and Science, The University of Tokyo, Japan                                                               |
+|                       |                                                                                                                                                       |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Apr. 2024 -           | Ph.D. Student, Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo, Japan |
+| Apr. 2022 - Mar.2024  | M.S., Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo, Japan          |
+| Apr. 2020 - Mar. 2022 | B.E., Department of Mathematical Engineering and Information Physics, School of Engineering, The University of Tokyo, Japan                           |
+| Apr. 2018 - Mar. 2020 | Natural Science I, Collage of Arts and Science, The University of Tokyo, Japan                                                                        |
 
 ## Research / Teaching Assistant
 
