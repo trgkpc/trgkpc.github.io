@@ -5,6 +5,10 @@ draft: false
 ---
 
 ## International Conference Proceedings
+1. **Kentaro Seki**, Shinnosuke Takamichi, Norihiro Takamune, Yuki Saito, Kanami Imamura, and Hiroshi Saruwatari, "Spatial Voice Conversion: Voice Conversion Preserving Spatial Information and Non-target Signals" in Proc. Interspeech, 2024.
+1. Takuto Igarashi, Yuki Saito, **Kentaro Seki**, Shinnosuke Takamichi, Ryuichi Yamamoto, and Kentaro Tachibana and Hiroshi Saruwatari, "Noise-Robust Voice Conversion by Conditional Denoising Training Using Latent Variables of Recording Quality and Environment" in Proc. Interspeech, 2024.
+1. Yuki Saito, Takuto Igarashi, **Kentaro Seki**, Shinnosuke Takamichi, Ryuichi Yamamoto, Kentaro Tachibana, and  Hiroshi Saruwatari. "SRC4VC: Smartphone-Recorded Corpus for Voice Conversion Benchmark" in Proc. Interspeech, 2024.
+1. Osamu Take, Shinnosuke Takamichi, **Kentaro Seki**, Yoshiaki Bando, and Hiroshi Saruwatari, "SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis" in Proc. Interspeech, 2024.
 1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Diversity-based core-set selection for text-to-speech with linguistic and acoustic features" in Proc. ICASSP, 2024.[[arXiv preprint](https://arxiv.org/abs/2309.08127)]
 1. Joonyong Park, Shinnosuke Takamichi, Tomohiko Nakamura, **Kentaro Seki**, Detai Xin and Hiroshi Saruwatari, "How Generative Spoken Language Modeling Encodes Noisy Speech: Investigation from Phonetics to Syntactics" in Proc. Interspeech, 2023. [[arXiv preprint](https://arxiv.org/abs/2306.00697)]
 1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection" in Proc. ICASSP, 2023.[[arXiv preprint](https://arxiv.org/abs/2210.14850)]
