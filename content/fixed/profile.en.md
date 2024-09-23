@@ -11,7 +11,7 @@ Research area: Speech synthesis, Machine learning.
 
 ## Affiliation
 
-[Saruwatari & Takamichi Lab](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en),  
+[Saruwatari & Saito Lab](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en),  
 Department of Information Physics & Computing,
 Graduate School of Information Science and Technology,  
 The University of Tokyo
@@ -33,10 +33,11 @@ The University of Tokyo
 
 ## Internship
 
-|                   |                                                                                            |
-| :---------------- | :----------------------------------------------------------------------------------------- |
-| 2023.08 - 2023.08 | [NTTコミュニケーション科学基礎研究所](https://www.rd.ntt/cs/) インターン                   |
-| Aug. 2022 - Sep. 2022 | [ソニーグループ株式会社R&Dセンター](https://www.sony.com/ja/SonyInfo/research/) インターン |
-| Nov. 2021 - May. 2022 | [株式会社 Preferred Robotics](https://www.pfrobotics.jp/) Part-time Engineer                |
-| Dec. 2020 - Oct. 2021 | [株式会社 Preferred Networks](https://www.preferred.jp/ja/) Part-time Engineer             |
+|                   |                                                                                                |
+| :---------------- | :--------------------------------------------------------------------------------------------- |
+| 2024.08 - 2024.09 | [CyberAgent, Inc. AI Lab](https://research.cyberagent.ai/) Internship                          |
+| 2023.08 - 2023.08 | [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/) Internship                  |
+| Aug. 2022 - Sep. 2022 | [Sony Group Corporation R&D center](https://www.sony.com/en/SonyInfo/research/) Internship |
+| Nov. 2021 - May. 2022 | [Preferred Robotics Inc.](https://www.pfrobotics.jp/) Part-time Engineer                   |
+| Dec. 2020 - Oct. 2021 | [Preferred Networks Inc.](https://www.preferred.jp/en/) Part-time Engineer                 |
 

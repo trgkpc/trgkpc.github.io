@@ -26,6 +26,9 @@ draft: false
 ## 招待講演
 1. **Kentaro Seki**, "Data Selection for Text-to-speech with Feedback from Automatic Evaluation of Naturalness on Synthetic Speech", in Joint Workshop of VoicePersonae and ASVspoof (VoiceMOS mini workshop) 2023, Nov. 2023.
 
+## プレプリント
+1. Wataru Nakata, **Kentaro Seki**, Hitomi Yanaka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "J-CHAT: Japanese Large-scale Spoken Dialogue Corpus for Spoken Dialogue Language Modeling", 2024. [[arXiv preprint](https://arxiv.org/abs/2407.15828)]
+
 ## 予算
 1. **関 健太郎**, [“インターネットデータの活用によるテキスト音声合成の感情表現力向上”](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24KJ0860/),2024 年度 特別研究員 DC1, 日本学術振興会.
 1. 中田 亘, **関 健太郎**, "音声対話システムにおける表現力豊かな音声合成のためのデータセット整備と大規模言語モデルの言語知識の活用", 300 万円, [2023 年度ディープテック人材育成事業「覚醒」](https://kakusei.aist.go.jp/), 産業技術総合研究所.
