@@ -32,13 +32,16 @@ seki-kentaro922[at]g.ecc.u-tokyo.ac.jp
 | :---------------- | :------------------------------------------------------------ |
 | 2022.04 - 2022.08 | 東京大学 工学部計数工学科 ティーチングアシスタント(TA)        |
 
-## インターンシップ等
+## 研究インターンシップ
+|                   |                                                                                                                                                                            |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| 2024.08 - 2024.09 | [株式会社サイバーエージェント AI Lab](https://research.cyberagent.ai/)（メンター：[李 莉](https://lili-0805.github.io/)）                                                  |
+| 2023.08 - 2023.08 | [NTTコミュニケーション科学基礎研究所](https://www.rd.ntt/cs/)（メンター：[亀岡 弘和](https://www.kecl.ntt.co.jp/people/kameoka.hirokazu/)）                                |
+| 2022.08 - 2022.09 | [ソニーグループ株式会社R&Dセンター](https://www.sony.com/ja/SonyInfo/research/)（メンター：[角尾 衣未留](https://scholar.google.co.jp/citations?user=34_X2z4AAAAJ)）       |
 
+## その他の業務経験
 |                   |                                                                                            |
 | :---------------- | :----------------------------------------------------------------------------------------- |
-| 2024.08 - 2024.09 | [株式会社サイバーエージェント AI Lab](https://research.cyberagent.ai/) インターン          |
-| 2023.08 - 2023.08 | [NTTコミュニケーション科学基礎研究所](https://www.rd.ntt/cs/) インターン                   |
-| 2022.08 - 2022.09 | [ソニーグループ株式会社R&Dセンター](https://www.sony.com/ja/SonyInfo/research/) インターン |
 | 2021.11 - 2022.05 | [株式会社 Preferred Robotics](https://www.pfrobotics.jp/) Part-time Engineer               |
 | 2020.12 - 2021.10 | [株式会社 Preferred Networks](https://www.preferred.jp/ja/) Part-time Engineer             |
 

@@ -31,13 +31,15 @@ The University of Tokyo
 | :---------------- | :------------------------------------------------------------ |
 | Apr. 2022 - Aug. 2022 | Teaching Assistant (TA) at Department of Mathematical Engineering and Information Physics, School of Engineering, The University of Tokyo, Japan |
 
-## Internship
+## Research Internship
 
-|                   |                                                                                                |
-| :---------------- | :--------------------------------------------------------------------------------------------- |
-| 2024.08 - 2024.09 | [CyberAgent, Inc. AI Lab](https://research.cyberagent.ai/) Internship                          |
-| 2023.08 - 2023.08 | [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/) Internship                  |
-| Aug. 2022 - Sep. 2022 | [Sony Group Corporation R&D center](https://www.sony.com/en/SonyInfo/research/) Internship |
+|                   |                                                                                                                                                                       |
+| :---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.08 - 2024.09 | [CyberAgent, Inc. AI Lab](https://research.cyberagent.ai/) (Mentor:[Li Li](https://lili-0805.github.io/)                                                              |
+| 2023.08 - 2023.08 | [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/) (Mentor:[Hirokazu Kameoka](https://www.kecl.ntt.co.jp/people/kameoka.hirokazu/index-e.html)        |
+| Aug. 2022 - Sep. 2022 | [Sony Group Corporation R&D center](https://www.sony.com/en/SonyInfo/research/) (Mentor:[Emiru Tsunoo](https://scholar.google.co.jp/citations?user=34_X2z4AAAAJ)  |
+
+## Other Work Experience
 | Nov. 2021 - May. 2022 | [Preferred Robotics Inc.](https://www.pfrobotics.jp/) Part-time Engineer                   |
 | Dec. 2020 - Oct. 2021 | [Preferred Networks Inc.](https://www.preferred.jp/en/) Part-time Engineer                 |
 
