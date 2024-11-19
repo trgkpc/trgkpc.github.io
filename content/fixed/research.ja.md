@@ -14,6 +14,7 @@ draft: false
 1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection" in Proc. ICASSP, 2023.[[arXiv preprint](https://arxiv.org/abs/2210.14850)]
 
 ## 国内学会
+1. **関健太郎**, 高道慎之介, 佐伯高明, 猿渡洋, "データ重要度評価に基づく能動学習を用いた音声合成", 第27回情報論的学習理論ワークショップ, 2024年11月.
 1. 武 伯寒, 高道 慎之介, **関健太郎**, 坂東 宜昭, 猿渡 洋, "音環境に適応するテキスト音声合成のための一人称視点コーパス構築", 情報処理学会 第151回 音声言語情報処理研究発表会, 2024年3月.
 1. 五十嵐 琢斗, 齋藤 佑樹, **関健太郎**, 高道慎之介, 山本 龍一, 橘 健太郎, 猿渡 洋, "音声品質と音響環境の潜在変数で条件付けた Denoising Trainingによるノイズロバスト音声変換", 電子情報通信学会研究報告, 2024年3月.
 1. 齋藤 佑樹, 五十嵐 琢斗, **関健太郎**, 高道慎之介, 山本 龍一, 橘 健太郎, 猿渡 洋, "SRC4VCデータセット：多話者音声変換モデルのベンチマークを目的とした実デバイス収録音声コーパス", 電子情報通信学会研究報告, 2024年3月.
