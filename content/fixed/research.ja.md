@@ -4,7 +4,7 @@ date: 2023-02-11T01:46:06+09:00
 draft: false
 ---
 
-## 論文誌
+## 原著論文
 1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. xx, No. xx, pp. xxx--xxx, xxx. 2025. (ACCEPTED)
 
 ## 国際学会
