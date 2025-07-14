@@ -37,6 +37,8 @@ draft: false
 1. **Kentaro Seki**, "Data Selection for Text-to-speech with Feedback from Automatic Evaluation of Naturalness on Synthetic Speech", in Joint Workshop of VoicePersonae and ASVspoof (VoiceMOS mini workshop) 2023, Nov. 2023.
 
 ## プレプリント
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Active Learning for Text-to-Speech Synthesis with Informative Sample Collection", 2025. [[arXiv preprint](https://arxiv.org/abs/2507.08319)]
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data", 2025. [[arXiv preprint](https://arxiv.org/abs/2506.15614)]
 1. Wataru Nakata, **Kentaro Seki**, Hitomi Yanaka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "J-CHAT: Japanese Large-scale Spoken Dialogue Corpus for Spoken Dialogue Language Modeling", 2024. [[arXiv preprint](https://arxiv.org/abs/2407.15828)]
 
 ## 予算
