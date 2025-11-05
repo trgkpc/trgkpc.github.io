@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## 原著論文
-1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data", IEEE/ACM Transactions on Audio, Speech, and Language Processing. (ACCEPTED) [[arXiv preprint](https://arxiv.org/abs/2506.15614)]
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data", IEEE Transactions on Audio, Speech, and Language Processing. (ACCEPTED) [[arXiv preprint](https://arxiv.org/abs/2506.15614)]
 1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. 46, No. 6, pp. 1--5, Nov. 2025.[[OPEN ACCESS](https://www.jstage.jst.go.jp/article/ast/46/6/46_e25.27/_article)]
 
 ## 国際学会
