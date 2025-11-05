@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## 原著論文
-1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. xx, No. xx, pp. xxx--xxx, xxx. 2025. (ACCEPTED)
+1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. 46, No. 6, pp. 1--5, Nov. 2025.
 
 ## 国際学会
 1. **Kentaro Seki**, Shinnosuke Takamichi, Norihiro Takamune, Yuki Saito, Kanami Imamura, and Hiroshi Saruwatari, "Spatial Voice Conversion: Voice Conversion Preserving Spatial Information and Non-target Signals" in Proc. Interspeech, 2024.
