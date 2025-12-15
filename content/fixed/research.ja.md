@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## 原著論文
-1. **Kentaro Seki**, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Toward Data-Efficient Speech Synthesis: Active Learning–Based Corpus Construction for Multi-Speaker Text-to-Speech Synthesis", IEEE Access, Dec 2025. (ACCEPTED).
+1. **Kentaro Seki**, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Toward Data-Efficient Speech Synthesis: Active Learning-Based Corpus Construction for Multi-Speaker Text-to-Speech Synthesis", IEEE Access, Dec 2025. (ACCEPTED).
 1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data", IEEE Transactions on Audio, Speech, and Language Processing, Vol. 33, pp. 4956-4970, Nov. 2025. [[arXiv preprint](https://arxiv.org/abs/2506.15614)] [[OPEN ACCESS](https://ieeexplore.ieee.org/document/11249734)]
 1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. 46, No. 6, pp. 671--675, Nov. 2025. [[OPEN ACCESS](https://www.jstage.jst.go.jp/article/ast/46/6/46_e25.27/_article)]
 
