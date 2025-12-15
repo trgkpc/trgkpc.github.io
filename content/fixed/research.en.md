@@ -5,8 +5,9 @@ draft: false
 ---
 
 ## Journal Papers
-1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data", IEEE Transactions on Audio, Speech, and Language Processing. (ACCEPTED) [[arXiv preprint](https://arxiv.org/abs/2506.15614)]
-1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. 46, No. 6, pp. 1--5, Nov. 2025.[[OPEN ACCESS](https://www.jstage.jst.go.jp/article/ast/46/6/46_e25.27/_article)]
+1. **Kentaro Seki**, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Toward Data-Efficient Speech Synthesis: Active Learning-Based Corpus Construction for Multi-Speaker Text-to-Speech Synthesis", IEEE Access, Dec 2025. (ACCEPTED).
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data", IEEE Transactions on Audio, Speech, and Language Processing, Vol. 33, pp. 4956-4970, Nov. 2025. [[arXiv preprint](https://arxiv.org/abs/2506.15614)] [[OPEN ACCESS](https://ieeexplore.ieee.org/document/11249734)]
+1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, "Language-queried target speech extraction using para-linguistic and non-linguistic prompts," Acoustical Science and Technology, Vol. 46, No. 6, pp. 671--675, Nov. 2025. [[OPEN ACCESS](https://www.jstage.jst.go.jp/article/ast/46/6/46_e25.27/_article)]
 
 ## International Conference Proceedings
 1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, "Active Learning for Text-to-Speech Synthesis with Informative Sample Collection" in Proc. APSIPA ASC, 2025. [[arXiv preprint](https://arxiv.org/abs/2507.08319)]
@@ -35,9 +36,13 @@ draft: false
 ## Invited talk
 1. **Kentaro Seki**, "Data Selection for Text-to-speech with Feedback from Automatic Evaluation of Naturalness on Synthetic Speech", in Joint Workshop of VoicePersonae and ASVspoof (VoiceMOS mini workshop) 2023, Nov. 2023.
 
+## Others
+1. **関健太郎**, "国際会議報告 INTERSPEECH", 人工知能学会 第15回対話システムシンポジウム, 2024年11月.
+
 ## Award
 |         |                                                                |
 | :------ | :------------------------------------------------------------- |
-| 2024.03 | Google Travel Grants for Students in East Asia                 |
+|| 2025.09 | 第20回YANSシンポジウム スポンサー賞 (PKSHA Technology 賞)         |
+ 2024.03 | Google Travel Grants for Students in East Asia                 |
 | 2023.09 | 日本音響学会学生優秀発表賞受賞                                 |
 | 2023.03 | IEEE SPS Travel Grant for IEEE ICASSP 2023                     |
