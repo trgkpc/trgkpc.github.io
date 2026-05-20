@@ -32,12 +32,12 @@ NHK学生ロボコン 大会概要 NHKで放送しているロボコンです。
     </item>
     
     <item>
-      <title>研究</title>
+      <title>“研究&#34;</title>
       <link>http://trgkpc.github.io/fixed/research/</link>
       <pubDate>Sat, 11 Feb 2023 01:46:06 +0900</pubDate>
       
       <guid>http://trgkpc.github.io/fixed/research/</guid>
-      <description>原著論文  Kentaro Seki, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, &amp;ldquo;Toward Data-Efficient Speech Synthesis: Active Learning-Based Corpus Construction for Multi-Speaker Text-to-Speech Synthesis&amp;rdquo;, IEEE Access, Dec 2025. (ACCEPTED). Kentaro Seki, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, &amp;ldquo;TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data&amp;rdquo;, IEEE Transactions on Audio, Speech, and Language Processing, Vol. 33, pp. 4956-4970, Nov. 2025. [arXiv preprint] [OPEN ACCESS] Kentaro Seki, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, &amp;ldquo;Language-queried target speech extraction using para-linguistic and non-linguistic prompts,&amp;rdquo; Acoustical Science and Technology, Vol.</description>
+      <description>原著論文  Kentaro Seki, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, “Toward Data-Efficient Speech Synthesis: Active Learning-Based Corpus Construction for Multi-Speaker Text-to-Speech Synthesis,” IEEE Access, Vol. 13, pp. 217900&amp;ndash;217912, Dec. 2025. [OPEN ACCESS] Kentaro Seki, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, “TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data,” IEEE Transactions on Audio, Speech, and Language Processing, Vol. 33, pp. 4956&amp;ndash;4970, Nov.</description>
     </item>
     
     <item>
