@@ -5,11 +5,14 @@ draft: false
 ---
 
 ## Journal Papers
+1. **Kentaro Seki**, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, “Efficient and Robust Data Sampling Strategy for Large-Scale In-the-Wild Text-to-Speech Training,” IEEE Access, Vol. 14, pp. 132282--132297, Aug. 2026. [[OPEN ACCESS](https://ieeexplore.ieee.org/document/11666862)]
 1. **Kentaro Seki**, Yuki Saito, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, “Toward Data-Efficient Speech Synthesis: Active Learning-Based Corpus Construction for Multi-Speaker Text-to-Speech Synthesis,” IEEE Access, Vol. 13, pp. 217900--217912, Dec. 2025. [[OPEN ACCESS](https://ieeexplore.ieee.org/document/11301677)]
-1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, “TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data,” IEEE Transactions on Audio, Speech, and Language Processing, Vol. 33, pp. 4956--4970, Nov. 2025. [[arXiv preprint](https://arxiv.org/abs/2506.15614)] [[OPEN ACCESS](https://ieeexplore.ieee.org/document/11249734)]
 1. **Kentaro Seki**, Nobutaka Ito, Kazuki Yamauchi, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, “Language-queried target speech extraction using para-linguistic and non-linguistic prompts,” Acoustical Science and Technology, Vol. 46, No. 6, pp. 671--675, Nov. 2025. [[OPEN ACCESS](https://www.jstage.jst.go.jp/article/ast/46/6/46_e25.27/_article)]
+1. **Kentaro Seki**, Shinnosuke Takamichi, Takaaki Saeki and Hiroshi Saruwatari, “TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data,” IEEE Transactions on Audio, Speech, and Language Processing, Vol. 33, pp. 4956--4970, Nov. 2025. [[arXiv preprint](https://arxiv.org/abs/2506.15614)] [[OPEN ACCESS](https://ieeexplore.ieee.org/document/11249734)]
 
 ## International Conference Proceedings
+1. **Kentaro Seki**, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, “Toward Robust Human-Robot Speech Communication: Multichannel Speech Separation with Generative Speech Restoration,” in BU-SHI workshop (IEEE RO-MAN workshop), Aug. 2026. (2 pages reviewed)
+1. **Kentaro Seki**, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, “Spatial Audio Captioning for Communicative Robot Audition in Multi-Source Auditory Scenes,” in IEEE RO-MAN, Aug. 2026. (4 pages reviewed)
 1. Wataru Nakata\*, **Kentaro Seki\***, Hitomi Yanaka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, “J-CHAT: Japanese Large-scale Spoken Dialogue Corpus for Spoken Dialogue Language Modeling,” in Proc. LREC, 2026. [[arXiv preprint](https://arxiv.org/abs/2407.15828)] [[Proceedings](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.444.pdf)]
 1. **Kentaro Seki**, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, Hiroshi Saruwatari, “Spatial-CLAP: Learning Spatially-Aware Audio–Text Embeddings for Multi-Source Conditions,” in Proc. ICASSP, 2026. [[arXiv preprint](https://arxiv.org/abs/2509.14785)]
 1. **Kentaro Seki**, Natsuhiro Tsuboi, Toshiki Kaisaki, Yuto Ishikawa, Yuki Saito, Kouei Yamaoka, and Hiroshi Saruwatari, “Real-Time Hearing Assistance System Combining Multichannel Speech Enhancement and Voice Conversion for Improved Listening Comfort,” in Sixth Joint Meeting: Acoustical Society of America and Acoustical Society of Japan, Dec. 2025. (abstract reviewed)
@@ -52,6 +55,7 @@ draft: false
 1. **関健太郎**, 高道慎之介, 佐伯高明, 猿渡洋, “学習・評価ループを用いたデータ選択によるダークデータからの音声合成,” 日本音響学会第149回(2023年春季)研究発表会, Mar. 2023.[[論文](https://drive.google.com/file/d/1CjhVSW1ud5yviFVaV4hwQQxzAqdOKm0B/view?usp=share_link)][[スライド](https://drive.google.com/file/d/1-pYXJ__X9y0yIdZr8eY06vL7KIFpb0LJ/view?usp=share_link)]
 
 ## Invited talk
+1. **関健太郎**, “博士課程ってどんなところ？：自由すぎる研究生活の楽しみ方,” in 第21回言語処理若手シンポジウム（YANS2026）, Aug. 2026.
 1. **Kentaro Seki**, "Data Selection for Text-to-speech with Feedback from Automatic Evaluation of Naturalness on Synthetic Speech", in Joint Workshop of VoicePersonae and ASVspoof (VoiceMOS mini workshop) 2023, Nov. 2023.
 
 ## Others
